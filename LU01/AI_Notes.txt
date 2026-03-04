@@ -1,26 +1,43 @@
-2/19/26:
+-2/19/26:
 We discussed what AI truly is, is the crazy sci-fi concept that can think like a superhuman or is it something simple such as chatgpt. 
 AI has come a long way over the years. 
 One definition of AI says that if it can interpret data, learn from it, and adapt and achieve specific goals.
 A good example of AI is showing it photos of you then showing it a new photo and seeing if it can recognize you are in it.
 
-2/23/26:
+-2/23/26:
 AI learns from tons of data but doesn’t really “think” on it own fully.
 AI makes billions of computations
 AI makes plenty of errors.
 We still don’t fully “understand” how AI works.
 AI will be able to do things we haven’t taught it.
 
-2/24/26:
+-2/24/26:
 We installed applications.
 
-2/25/26
+-2/25/26
 AI takes an insane amount of computing power. It uses up so much water and area.
 You need data to train your AI model. 
 We are running out of human data to use to train.
 AI doesn’t understand language.
 
-2/26/26
+-2/26/26
 Wrote an essay by hand.
-3/2/26:
 
+-3/2/26:
+Learning to use better prompts, prompt engineering.
+
+The Prompt Framework(T-C-R-E-I)
+	Task:   Persona: Who is the AI?
+	      	Format: Output type
+	Context:
+		Good: Ideas for a gift under $30
+		Great: 5 ideas fora 29 year old who loves winter sports and just switched from snowboarding to skiing. Budget $30.
+	Refrence:
+		Provide additional data, examples, or specific ideas to guide the AI.
+		Attach documentation about the coding framework used.
+		Give examples of previous outputs you liked in the past.
+	Evaluate:
+		Review the output, make sure it hits requirements.
+	Interate:
+		Feed errors back into it.
+		Give more detail or refine the constraints.
