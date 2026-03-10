@@ -1,0 +1,8 @@
+-3/4/26:
+RAG(Retrieval-Augmented-Generation)
+	Uses to make your own model
+	
+We tested out Notebook LM
+
+-3/9/26: We tested out different AI applications we can use for text to speed, image creation, and more.
+		 These will be useful for our assignments.
