@@ -1,0 +1,16 @@
+-3/18/26
+	=AI assisted development
+	=Vibe coding
+	=10x developer = theoretically 10 times more productive developer with ai
+	=Worked on cookie clicker and finished it
+	
+-3/19/26
+	=Worked on debugging skyrim project
+	
+-3/23/26
+	-3/23/26:
+	-Deploying AI such as the hardware is needs or using locally or cloud.
+	-Virtual machines
+	-AI costs a lot of resources such as ram.
+-3/24/26
+	- Installed virtual machine

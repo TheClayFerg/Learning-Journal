@@ -11,4 +11,3 @@
 	-Vibe coding
 	-Seeing how indepth ai can create content
 	-Making software with AI
-
