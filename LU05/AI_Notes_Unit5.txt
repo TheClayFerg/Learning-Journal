@@ -1,0 +1,16 @@
+-3/24/26:
+	Learned how to use virtual machines.
+	Use VirtualBox for management.
+	Cosmos OS for storage
+	Install Docker
+-3/25/26:
+	Creating VM with different OS
+-3/30/26:
+	AI Models when larger need a lot of RAM.
+	It is also very expensive
+	AI Compression is key
+	Going over Docker vs VM
+-3/31/26:
+	AI models can be ran from computer locally.
+	Ollama is a good tool to run AI models locally
+	Using Docker/Podman
