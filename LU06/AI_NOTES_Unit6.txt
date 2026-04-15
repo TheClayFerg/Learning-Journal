@@ -1,0 +1,12 @@
+4/13/26:
+Using AI in development.
+IDE's
+Agentic AI
+Talked a bit about claude and copilot.
+Vibe coding
+Quantum Computing
+
+4/14/26:
+Working with Svelte and ai
+Using AI to build/edit projects.
+AI can use vulnerabiltiies. 
