@@ -1,0 +1,7 @@
+4/21/26: 
+	AI models don't learn during inference
+	Learning actually happens during the training phased and not while used
+	AI improves from experiments with self improving models
+	Vibe coding
+4/22/26:
+	Group project assignment, I'll complete on my own.
