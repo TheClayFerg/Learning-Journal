@@ -1,0 +1,8 @@
+4/22/26:
+	Partner Project
+4/27/28:
+	Survey
+	Purpose of AI and automation
+	AI speeds up the process of automation that developers already do.
+	Using n8n
+	n8n: no code/low code automation platform
